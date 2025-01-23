@@ -24,7 +24,7 @@ This system can be used by teachers to grade and provide feedback on student ess
 
 Customizing the grading rubric based on the type of assignment or subject area.
 Handling diverse student writing styles and subject matter.
-Ensuring feedback is constructive and not overly critical, especially for younger or less experienced writers.
+Ensuring feedback is constructive and not overly critical, especially for younger writers.
 
 
 ## Challenges
@@ -33,7 +33,7 @@ Ensuring feedback is constructive and not overly critical, especially for younge
 - Complexity of assignments: Different types of assignments (essays, reports, etc.) have varying criteria, and the system may need to be adapted for different types of writing.
 - Limitations of grammar checkers: Simple grammar checks may not capture complex syntactic errors or stylistic issues.
 
-Ethical considerations include ensuring the AI does not bias grading based on poor input data and that it complements, rather than replaces, the teacher's expertise.
+Ethical considerations include ensuring the AI does not bias grading based on poor input data and that it complements rather than replaces the teacher's experience and knowledge.
 
 ## What next?
 
