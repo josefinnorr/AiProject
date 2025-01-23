@@ -1,4 +1,3 @@
-# AiProject
 # GradeMate
 
 Final project for the Building AI course
